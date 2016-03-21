@@ -1,5 +1,5 @@
 # spring-data-rest-example
-Showcase for a problem with @RepositoryRestController
+Showcase for a problem with ``@RepositoryRestController`` and ``@BasePathAwareController``.
 
 ## Problem 1
 
